@@ -9,3 +9,6 @@ Chris GEORGE
 
 ## License
 This project is licensed under the MIT License. See also the [license](./LICENSE) file.
+
+## Reference
+[Chawanda, C. J., George, C., Thiery, W., Griensven, A. van, Tech, J., Arnold, J., & Srinivasan, R. (2020). User-friendly workflows for catchment modelling: Towards reproducible SWAT+ model studies. Environmental Modelling and Software, 134(August), 104812. https://doi.org/10.1016/j.envsoft.2020.104812](https://www.sciencedirect.com/science/article/pii/S1364815220307258)
